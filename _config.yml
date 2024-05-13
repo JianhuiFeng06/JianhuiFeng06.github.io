@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jianhui Feng / Personal Homepage"
+title                    : "Jianhui Feng's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jianhui Feng"
 description              : &description "a master student from ISTBI, Fudan University"
@@ -26,7 +26,7 @@ author:
   bio              : a master student from ISTBI, Fudan University
   location         : Shanghai, China
   employer         : Fudan University
-  uri              : https://jianhuifeng06.github.io/
+  # uri              : https://jianhuifeng06.github.io/
   email            : "JianhuiFeng06@outlook.com" 
 
   # # Academic websites
