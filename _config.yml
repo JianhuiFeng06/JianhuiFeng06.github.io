@@ -21,7 +21,7 @@ repository               : "jianhuifeng06/jianhuifeng06.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "fudan.png"
   name             : "Jianhui Feng" 
   bio              : a master student from ISTBI, Fudan University
   location         : Shanghai, China
